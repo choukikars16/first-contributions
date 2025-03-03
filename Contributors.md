@@ -19,6 +19,7 @@
 - [wazzan] (https://github.com/wazzan) jj says hi
 - [Israt] (https://github.com/IsratErin) Here is my first contribution!!
 - [Sujit] (https://github.com/KushwahaPrasadSujit)
+- [sawi] (https://github.com/choukikars16)
 - [jhena] (https://github.com/jhenals) This is my first contribution!
 - [Margaux] (https://github.com/margaux-works) Hello, world!
 - [Hashem SH](https://github.com/hashemsh) Init 10 ⚡
